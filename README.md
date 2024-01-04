@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Pramodijay/Pramodijay/blob/main/Margarita%20Perez.png)
 <h1 align="center">Hi 👋, I'm Pramodijay</h1>
 <h3 align="center">I am 4th Year Undergraduate Student at Sri Lanka Institute of Information Technology with a degree in BSc (Hons) in Information Technology</h3>
 
